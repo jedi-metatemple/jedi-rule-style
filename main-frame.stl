@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>{{{esc|title}}}</title>
+</head>
+<body>
+{{{lit|contents}}}
+</body>
+</html>
