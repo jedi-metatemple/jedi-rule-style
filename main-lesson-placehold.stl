@@ -7,7 +7,7 @@
 
 {{{yesfi}}}
 
-<a name = "ltm_{{{esc|current}}}" /><table border = 0 width = "70%"><tr><td><table border = 0 width = "90%" align = "right"><tr><td><hr/>
+<a name = "ltm_{{{esc|current}}}" /><table border = 0 width = "70%"><tr><td><table border = 2 width = "90%" align = "right"><tr><td><hr/>
 <b>Day {{{esc|daynum}}}</b><br /><br />
 {{{lit|text}}}
 </td></tr></table></td></tr></table>

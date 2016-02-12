@@ -1,6 +1,12 @@
 <html>
 <head>
 <title>{{{esc|title}}}</title>
+<style type="text/css">
+.cite_informal {
+	font-size: 60%;
+	color: #aa00aa;
+}
+</style>
 </head>
 <body>
 {{{lit|contents}}}

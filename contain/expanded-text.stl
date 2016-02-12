@@ -1,0 +1,6 @@
+<table border = "3" cellpadding = "8">
+<tr><td>{{{esc|title}}}</td></tr>
+<tr><td>
+{{{lit|content}}}
+</td></tr>
+</table>
